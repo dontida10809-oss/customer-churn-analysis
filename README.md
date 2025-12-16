@@ -1,6 +1,6 @@
-# 📊 Customer Churn Analysis Project (Data Analyst)
+# Customer Churn Analysis Project (Data Analyst)
 
-## 🔍 Project Overview
+## Project Overview
 
 This project analyzes **customer churn behavior** using transactional sales data.
 The main goal is to understand **when customers stop purchasing** and whether churn is related to changes in sales performance.
@@ -13,7 +13,7 @@ This project is designed as a **Data Analyst portfolio project** suitable for in
 
 ---
 
-## ❓ Business Problem
+## Business Problem
 
 Businesses often experience customers who purchase once and never return.
 However, it is not always clear:
@@ -29,7 +29,7 @@ Understanding churn timing helps businesses:
 
 ---
 
-## 🧠 Analytical Approach
+## Analytical Approach
 
 1. **Data Preparation**
 
@@ -52,7 +52,7 @@ Understanding churn timing helps businesses:
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 | Month   | Total Sales | Churn Customers |
 | ------- | ----------- | --------------- |
@@ -60,7 +60,7 @@ Understanding churn timing helps businesses:
 | 2024-02 | 180         | 0               |
 | 2024-03 | 140         | 0               |
 
-### 🔑 Insights
+### Insights
 
 * Although total sales declined from January to March, customer churn occurred **only in January**.
 * This indicates that **short-term sales decline does not necessarily cause churn**.
@@ -68,7 +68,7 @@ Understanding churn timing helps businesses:
 
 ---
 
-## 💼 Business Interpretation
+## Business Interpretation
 
 * January may include **one-time or promotion-driven customers**.
 * Customers retained in later months likely have **higher loyalty**.
@@ -90,7 +90,7 @@ Understanding churn timing helps businesses:
 
 ---
 
-## 🎯 Why This Project Matters
+## Why This Project Matters
 
 This project demonstrates:
 
@@ -102,7 +102,7 @@ It reflects the **core responsibilities of a Data Analyst role**.
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Segment churn by product type
 * Analyze customer lifetime value (CLV)
@@ -110,7 +110,7 @@ It reflects the **core responsibilities of a Data Analyst role**.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Dolthida**
 Aspiring Data Analyst | Internship Portfolio Project
